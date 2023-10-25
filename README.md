@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jakubsc
 - 👀 I’m interested in programming AI
-- 🌱 I’m currently learning basics how heuristics work
+- 🌱 I’m currently learning how heuristics work
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
